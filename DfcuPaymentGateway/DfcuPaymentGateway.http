@@ -1,0 +1,6 @@
+@DfcuPaymentGateway_HostAddress = http://localhost:5082
+
+GET {{DfcuPaymentGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
